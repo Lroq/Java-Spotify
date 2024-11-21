@@ -1,0 +1,11 @@
+[ {
+  "albumId" : "f5aed610-de9e-47a1-b459-cb707a05abe3",
+  "artistId" : "385590e1-465c-4b7c-961f-a9b624411560",
+  "albumName" : "Rapsody",
+  "albumReleaseDate" : "1984",
+  "albumGenre" : "Rock",
+  "albumSongs" : [ {
+    "songId" : "5e18bbec-b028-402a-a6bd-da455136e0e4",
+    "songName" : "Champions"
+  } ]
+} ]

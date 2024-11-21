@@ -1,0 +1,13 @@
+[ {
+  "playlistName" : "Legends of Rock",
+  "playlistDescription" : "Best rock's hits",
+  "playlistGenre" : "Rock",
+  "playlistCreationDate" : 2024,
+  "playlistCreator" : "SPOTIFY"
+}, {
+  "playlistName" : "Rock",
+  "playlistDescription" : "Best rock hit",
+  "playlistGenre" : "Rock",
+  "playlistCreationDate" : 2020,
+  "playlistCreator" : "SPOTIFY"
+} ]

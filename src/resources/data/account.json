@@ -1,0 +1,33 @@
+[ {
+  "adminStatus" : false,
+  "clientEmail" : "kam@gmail.com",
+  "clientPassword" : "Az123456",
+  "clientUsername" : "Mal",
+  "clientCountry" : "FRANCE",
+  "clientBirthDate" : "14/05/1987",
+  "adminStatusJson" : false
+}, {
+  "adminStatus" : true,
+  "clientEmail" : "admin24@spotify.com",
+  "clientPassword" : "Admin24s",
+  "clientUsername" : "Admin24",
+  "clientCountry" : "USA",
+  "clientBirthDate" : "01/01/0001",
+  "adminStatusJson" : true
+}, {
+  "adminStatus" : false,
+  "clientEmail" : "loulou@gmail.com",
+  "clientPassword" : "Az123456",
+  "clientUsername" : "Louis",
+  "clientCountry" : "France",
+  "clientBirthDate" : "14/04/1987",
+  "adminStatusJson" : false
+}, {
+  "adminStatus" : false,
+  "clientEmail" : "mas@gmail.com",
+  "clientPassword" : "Az123456",
+  "clientUsername" : null,
+  "clientCountry" : null,
+  "clientBirthDate" : null,
+  "adminStatusJson" : false
+} ]
